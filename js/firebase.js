@@ -1,6 +1,6 @@
 // Firebase configuration
 window.firebaseConfig = {
-  apiKey: "AIzaSyBcEN1JWel5O3SuXFu2j1dB2I_XZB_9-UU",
+  apiKey: "key",
   authDomain: "rewear-latest.firebaseapp.com",
   projectId: "rewear-latest",
   storageBucket: "rewear-latest.appspot.com",
